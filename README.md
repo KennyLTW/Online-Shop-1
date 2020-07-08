@@ -9,7 +9,7 @@ screenshot:
 
 <B>Index page: </B></br>
 <img src="https://github.com/KennyLTW/Online-Shop-1/blob/master/screenshot/1.PNG" width="800"/> </br>
-<img src="https://github.com/KennyLTW/Online-Shop-1/blob/master/screenshot/2.PNG" width="800"/> </br<
+<img src="https://github.com/KennyLTW/Online-Shop-1/blob/master/screenshot/2.PNG" width="800"/> </br>
 
 <B>Shop/Prodects page: </B></br>
 <img src="https://github.com/KennyLTW/Online-Shop-1/blob/master/screenshot/3.PNG" width="800"/> </br>
